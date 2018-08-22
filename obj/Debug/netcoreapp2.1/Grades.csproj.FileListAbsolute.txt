@@ -1,0 +1,11 @@
+C:\users\ht838ag\desktop\csharp\Grades\bin\Debug\netcoreapp2.1\Grades.deps.json
+C:\users\ht838ag\desktop\csharp\Grades\bin\Debug\netcoreapp2.1\Grades.runtimeconfig.json
+C:\users\ht838ag\desktop\csharp\Grades\bin\Debug\netcoreapp2.1\Grades.runtimeconfig.dev.json
+C:\users\ht838ag\desktop\csharp\Grades\bin\Debug\netcoreapp2.1\Grades.dll
+C:\users\ht838ag\desktop\csharp\Grades\bin\Debug\netcoreapp2.1\Grades.pdb
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.csprojAssemblyReference.cache
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.csproj.CoreCompileInputs.cache
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfoInputs.cache
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfo.cs
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.dll
+C:\users\ht838ag\desktop\csharp\Grades\obj\Debug\netcoreapp2.1\Grades.pdb
